@@ -1,0 +1,7 @@
+UR-IW-1 -> Opus 1 shot + wiki -> rate limit errors 75 minutes
+UR-IW-2 -> Opus 1 shot -> 
+UR-IW-3 -> Mixtral 7B 10-Shot + wiki -> 17:54
+UR-IW-4 -> Mixtral 7B 10-Shot-> 12:26
+UR-IW-5 -> Mixtral 22B 10-Shot + wiki -> 
+
+

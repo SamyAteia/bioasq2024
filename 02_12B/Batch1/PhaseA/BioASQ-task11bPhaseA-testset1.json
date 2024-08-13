@@ -1,0 +1,429 @@
+{
+  "questions": [
+    {
+      "id": "65cfad2d1930410b13000014",
+      "type": "list",
+      "body": "Concizumab is used for which diseases?"
+    },
+    {
+      "id": "65f7736fc4010b4d78000024",
+      "type": "factoid",
+      "body": "What type of extracolonic tumors does the PMS2 germline mutation cause?"
+    },
+    {
+      "id": "65f7080fc4010b4d78000019",
+      "type": "yesno",
+      "body": "Do stroke patients have a lower risk of Obstructive Sleep Apnea?"
+    },
+    {
+      "id": "65f859b2c4010b4d78000050",
+      "type": "yesno",
+      "body": "Should all babies diagnosed with spina bifida be operated within the first week of life?"
+    },
+    {
+      "id": "6446884b57b1c7a31500006f",
+      "type": "summary",
+      "body": "What is Oculopharyngeal Muscular Dystrophy (OPMD)?"
+    },
+    {
+      "id": "65d144731930410b13000040",
+      "type": "summary",
+      "body": "What is the mechanisms of action of Dersimelagon?"
+    },
+    {
+      "id": "65f7728fc4010b4d78000021",
+      "type": "factoid",
+      "body": "What proportion of risk is attributable to obesity in colorectal cancer women development?"
+    },
+    {
+      "id": "65f490fac4010b4d78000010",
+      "type": "yesno",
+      "body": "Has MDMA(ecstasy) been successfully used to treat PTSD disorder?"
+    },
+    {
+      "id": "65f843cbc4010b4d78000042",
+      "type": "summary",
+      "body": "What is a spillover event?"
+    },
+    {
+      "id": "64467f8657b1c7a31500006d",
+      "type": "list",
+      "body": "How can Emery-Dreifuss Muscular Dystrophy (EDMD) be inherited?"
+    },
+    {
+      "id": "65d12b451930410b13000031",
+      "type": "yesno",
+      "body": "Can valproate be used during pregnancy?"
+    },
+    {
+      "id": "65f7725ec4010b4d78000020",
+      "type": "list",
+      "body": "Which dietary compounds are associated with colorectal cancer incidence?"
+    },
+    {
+      "id": "65f494d7c4010b4d78000013",
+      "type": "factoid",
+      "body": "What is the relationship between  Electroporation (EP) and DNA vaccines?"
+    },
+    {
+      "id": "65f84d20c4010b4d7800004a",
+      "type": "yesno",
+      "body": "Is measles immunisation the best public health approach to reduce incidence of measles worldwide?"
+    },
+    {
+      "id": "64179034690f196b5100002b",
+      "type": "factoid",
+      "body": "What type of DMD can golodirsen be used for?"
+    },
+    {
+      "id": "65d137871930410b1300003e",
+      "type": "list",
+      "body": "What are active ingredients of Trikafta?"
+    },
+    {
+      "id": "65f77397c4010b4d78000025",
+      "type": "factoid",
+      "body": "What proportion of alteration in NTRK genes are attributable to colorectal cancer?"
+    },
+    {
+      "id": "65f1d234c4010b4d78000005",
+      "type": "list",
+      "body": "Please list the Janus Kinase inhibitors used to treat Inflammatory Bowel Disease(IBD)"
+    },
+    {
+      "id": "65f83281c4010b4d78000040",
+      "type": "yesno",
+      "body": "Are only babies and young children at risk of severe malaria in endemic areas?"
+    },
+    {
+      "id": "64414bdb57b1c7a315000058",
+      "type": "list",
+      "body": "What types of glucosteroids are used for the management of Duchenne muscular dystrophy?"
+    },
+    {
+      "id": "65cfd4b21930410b13000020",
+      "type": "factoid",
+      "body": "Cilta-cel was developed for treatment of which disease?"
+    },
+    {
+      "id": "65f772d3c4010b4d78000022",
+      "type": "list",
+      "body": "Which oncogene somatic mutations are associated to in situ carcinoma evolution from colonic polyp adenomas?"
+    },
+    {
+      "id": "65f1eb84c4010b4d78000008",
+      "type": "summary",
+      "body": "What is prurigo nodularis?"
+    },
+    {
+      "id": "65f8447fc4010b4d78000043",
+      "type": "factoid",
+      "body": "What is the main cause of spillover events?"
+    },
+    {
+      "id": "644108b157b1c7a315000053",
+      "type": "list",
+      "body": "What are the most commonly used pain scales for the measurement of pain in ICU?"
+    },
+    {
+      "id": "65d373e21930410b13000049",
+      "type": "list",
+      "body": "What medication were tested in the PEMMELA trial?"
+    },
+    {
+      "id": "65f77328c4010b4d78000023",
+      "type": "summary",
+      "body": "What is the pathophysiological mechanism by which the microbiota produce malignant lesions in colonic mucosa?"
+    },
+    {
+      "id": "65ef83acdffffb9b6b000002",
+      "type": "yesno",
+      "body": "is carotenodermia caused by an excess of lycopene in the diet?"
+    },
+    {
+      "id": "65f85231c4010b4d7800004d",
+      "type": "list",
+      "body": "Which are the two main active ingredients of the standard PrEP (Pre-Exposure Prophylaxis)?"
+    },
+    {
+      "id": "6451007857b1c7a315000093",
+      "type": "factoid",
+      "body": "What is the cause of Leigh syndrome?"
+    },
+    {
+      "id": "65d129621930410b1300002e",
+      "type": "summary",
+      "body": "What is Primary Diffuse Meningeal Melanomatosis?"
+    },
+    {
+      "id": "65f77236c4010b4d7800001f",
+      "type": "yesno",
+      "body": "Do black race patients have worse survival in colorectal cancer?"
+    },
+    {
+      "id": "65f1dadac4010b4d78000007",
+      "type": "yesno",
+      "body": "Can Antioxidant curcumin kill tumor cells?"
+    },
+    {
+      "id": "65f85f77c4010b4d78000053",
+      "type": "yesno",
+      "body": "Should we treat all patients with glaucoma?"
+    },
+    {
+      "id": "65cfab681930410b13000012",
+      "type": "summary",
+      "body": "What is the mechanism of action of Pegozafermin?"
+    },
+    {
+      "id": "65f70b9cc4010b4d7800001c",
+      "type": "factoid",
+      "body": "What is the indication for Alirocumab?"
+    },
+    {
+      "id": "65f86a90c4010b4d78000057",
+      "type": "yesno",
+      "body": "Is there an approved vaccine against Helicobacter pylori?"
+    },
+    {
+      "id": "65cec1fb1930410b13000005",
+      "type": "factoid",
+      "body": "What disease can be treated with Tebentafusp?"
+    },
+    {
+      "id": "65f856a1c4010b4d7800004e",
+      "type": "factoid",
+      "body": "When was Havana Syndrome first recognized?"
+    },
+    {
+      "id": "65f86f03c4010b4d7800005b",
+      "type": "yesno",
+      "body": "Is Marburg virus a member of the family of the Ebola virus (Filoviridae)?"
+    },
+    {
+      "id": "65d140e71930410b1300003f",
+      "type": "list",
+      "body": "What medications were tested in the COSMIC-313 trial?"
+    },
+    {
+      "id": "65f492bbc4010b4d78000011",
+      "type": "summary",
+      "body": "Explain the action of Domperidone."
+    },
+    {
+      "id": "65f86ba3c4010b4d78000059",
+      "type": "factoid",
+      "body": "Which age group should never be tested for HIV infection?"
+    },
+    {
+      "id": "65d12ae11930410b13000030",
+      "type": "yesno",
+      "body": "Can fingolimod be used during pregnancy?"
+    },
+    {
+      "id": "65f38059c4010b4d7800000e",
+      "type": "factoid",
+      "body": "What does capnography measure?"
+    },
+    {
+      "id": "65f8611dc4010b4d78000055",
+      "type": "summary",
+      "body": "Should men be immunized against Human Papilloma Virus?"
+    },
+    {
+      "id": "65cfd68a1930410b13000021",
+      "type": "yesno",
+      "body": "Is sectoral Heterochromia associated with Crohn\u0027s disease?"
+    },
+    {
+      "id": "65f377d5c4010b4d78000009",
+      "type": "list",
+      "body": "List the most effective treatment methods for Madelung disease."
+    },
+    {
+      "id": "65f847c5c4010b4d78000046",
+      "type": "list",
+      "body": "What are common side effects of the progesterone-only pill (POP)?"
+    },
+    {
+      "id": "65d128f81930410b1300002d",
+      "type": "summary",
+      "body": "What is the mechanism of action of Peresolimab?"
+    },
+    {
+      "id": "65f1d021c4010b4d78000004",
+      "type": "summary",
+      "body": "Explain the difference between eosinophilic esophagitis and reflux-induced esophagitis."
+    },
+    {
+      "id": "65f84aa5c4010b4d78000047",
+      "type": "list",
+      "body": "What are the most common symptoms of fibroids?"
+    },
+    {
+      "id": "65cfa22b1930410b1300000c",
+      "type": "factoid",
+      "body": "What is the target of Selpercatinib?"
+    },
+    {
+      "id": "65f5a319c4010b4d78000016",
+      "type": "summary",
+      "body": "What is IL-35?"
+    },
+    {
+      "id": "65f84535c4010b4d78000044",
+      "type": "list",
+      "body": "What are the transmission mechanisms of the human Ebola infection?"
+    },
+    {
+      "id": "65ce88be1930410b13000002",
+      "type": "summary",
+      "body": "What is the mechanisms of action of Sotorasib?"
+    },
+    {
+      "id": "65f039fdc4010b4d78000002",
+      "type": "factoid",
+      "body": "What is the vector for coxiella burnetii transmission?"
+    },
+    {
+      "id": "65f82fe1c4010b4d7800003f",
+      "type": "yesno",
+      "body": "Methotrexate is an antifolate medication."
+    },
+    {
+      "id": "65d131451930410b13000034",
+      "type": "yesno",
+      "body": "Is GC1118 effective for glioblastoma?"
+    },
+    {
+      "id": "65f70d71c4010b4d7800001e",
+      "type": "yesno",
+      "body": "Is COACH syndrome a rare autosomal recessive genetic disease characterized by liver fibrosis and related to portal hypertension."
+    },
+    {
+      "id": "65f86f62c4010b4d7800005c",
+      "type": "list",
+      "body": "Which symptoms could indicate depression in young children?"
+    },
+    {
+      "id": "65d136bc1930410b1300003c",
+      "type": "list",
+      "body": "What are active ingredients of Paxlovid?"
+    },
+    {
+      "id": "65f37997c4010b4d7800000b",
+      "type": "factoid",
+      "body": "What is an Albatross plot used for?"
+    },
+    {
+      "id": "65f85df3c4010b4d78000051",
+      "type": "list",
+      "body": "What should you do if you find an individual that you suspect has overdosed?"
+    },
+    {
+      "id": "65cebf371930410b13000004",
+      "type": "summary",
+      "body": "What is the mechanism of action of sparsentan?"
+    },
+    {
+      "id": "65f70915c4010b4d7800001a",
+      "type": "summary",
+      "body": "Please summarize MuSK Antibody positive Myasthenia Gravis."
+    },
+    {
+      "id": "65f8418fc4010b4d78000041",
+      "type": "summary",
+      "body": "Is it advisable to bring the fever down when it is supposedly meant to assist in the fight of disease?"
+    },
+    {
+      "id": "65cfd13f1930410b1300001d",
+      "type": "yesno",
+      "body": "Can syphilis cause proctitis?"
+    },
+    {
+      "id": "65f493cac4010b4d78000012",
+      "type": "factoid",
+      "body": "What disorder is considered off label use for domperidone?"
+    },
+    {
+      "id": "65f8721ec4010b4d7800005d",
+      "type": "list",
+      "body": "Which neurotransmitters are thought to play a role in obsessive compulsive disorder?"
+    },
+    {
+      "id": "65d126d21930410b1300002c",
+      "type": "yesno",
+      "body": "Can denosumab cause jaw necrosis?"
+    },
+    {
+      "id": "65f37871c4010b4d7800000a",
+      "type": "summary",
+      "body": "What is DEXTR"
+    },
+    {
+      "id": "65f85ec7c4010b4d78000052",
+      "type": "factoid",
+      "body": "What is the most common surgical treatment for hydrocephalus?"
+    },
+    {
+      "id": "65d126471930410b1300002b",
+      "type": "yesno",
+      "body": "Is Upadacitinib effective for Crohn’s Disease?"
+    },
+    {
+      "id": "65f0369bc4010b4d78000001",
+      "type": "yesno",
+      "body": "Is melatonin beneficial in the treatment of in cerebral ischemia-reperfusion injury:"
+    },
+    {
+      "id": "65f84b5ec4010b4d78000048",
+      "type": "yesno",
+      "body": "Are Hemoglobin-Based Oxygen Carriers approved for human use?"
+    },
+    {
+      "id": "65cfa37c1930410b1300000d",
+      "type": "factoid",
+      "body": "Gantenerumab was developed for treatment of which disease?"
+    },
+    {
+      "id": "65f70a55c4010b4d7800001b",
+      "type": "list",
+      "body": "Please list the congenital fibrinogen disorders."
+    },
+    {
+      "id": "65f82218c4010b4d7800003e",
+      "type": "list",
+      "body": "What are the current indications for thalidomide?"
+    },
+    {
+      "id": "65d1357c1930410b13000039",
+      "type": "factoid",
+      "body": "What is the administration route of zavegepant?"
+    },
+    {
+      "id": "65f59db8c4010b4d78000014",
+      "type": "summary",
+      "body": "Brunner\u0027s gland hamartoma (BGH) is often asymptomatic and so how is it usually diagnosed?"
+    },
+    {
+      "id": "65f86e06c4010b4d7800005a",
+      "type": "yesno",
+      "body": "Is peritoneal dialysis the best option for infants with kidney failure?"
+    },
+    {
+      "id": "65ce88b71930410b13000001",
+      "type": "yesno",
+      "body": "Is Lecanemab approved for Alzheimer’s Disease?"
+    },
+    {
+      "id": "65f5a3efc4010b4d78000017",
+      "type": "yesno",
+      "body": "Can Ultrasonography be used to detect tumors in dogs and cats?"
+    },
+    {
+      "id": "65f82058c4010b4d7800003d",
+      "type": "factoid",
+      "body": "What is the first line treatment for severe Plasmodium falciparum malaria?"
+    }
+  ]
+}

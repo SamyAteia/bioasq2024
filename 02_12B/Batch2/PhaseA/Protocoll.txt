@@ -1,0 +1,41 @@
+Paticipating with 5 systems:
+System 1: Claude Opus + 1 shot -> UR-IW-1
+System 2: Mixtral + 10 shot -> UR-IW-4
+System 3: Mixtral fine-tuned + 10 shot -> UR-IW-2
+System 4: GPT-3.5-turbo + 10 shot -> UR-IW-5
+System 5: GPT-3.5-turbo fine-tuned + 1 shot -> UR-IW-3
+
+
+Interesting preliminary results: Plain Mixtral 10-shot is not able to correctly follow the output format for snippet reranking, fals short on half of the documents -> empty snippets.
+
+ur-iw5 -> 18:40
+
+
+Batch2:
+MAP winners articles:
+IW-1 Opus
+IW-4 Mixtral 10-shot
+IW-5 GPT-3.5 10-shot
+IW-3 GPT-3.5 fine-tuned
+IW-2 Mixtral fine-tuned
+
+MAP winners snippets
+IW-1 Opusl
+IW-3 GPT Fine-Tuned
+IW-4 Mixtral 10-shot
+IW-2 Mistral fine-tuned
+IW-5 GPT Fine-Tuned
+
+Batch1:
+Mixtral 10-shot
+Opus
+Mixtra fine-tuned
+GPT fine-tuned
+GPT 10-shot
+
+snippets:
+Opus
+Mixtral 10-shot
+gpt fine-tuned
+Mixtral fine-tuned
+gpt 10-shot

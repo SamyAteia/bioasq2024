@@ -1,0 +1,8 @@
+UR-IW-1 -> Opus 1 shot + wiki -> 137:14
+UR-IW-2 -> Opus 1 shot -> 107:20
+UR-IW-3 -> Mixtral 7B 10-Shot + wiki -> 14:45 -> 11$
+UR-IW-4 -> Mixtral 7B 10-Shot
+UR-IW-5 -> Mixtral 22B 10-Shot + wiki -> 14:48
+
+
+Found a bug that failed whole question run if one response to extract snippet was wrong -> happend only 1 with opus but 39-70 with mixtral -> rerun mixtral models

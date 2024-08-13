@@ -1,0 +1,6 @@
+Paticipating with 5 systems:
+System 1: Claude Opus + 10 shot -> UR-IW-1
+System 2: Mixtral + 10 shot -> UR-gpt4-simple -> UR-IW-4
+System 3: Mixtral fine-tuned + 10 shot -> UR-gpt4-zero -> UR-IW-2
+System 4: GPT-3.5-turbo + 10 shot -> UR-gpt3.5-t-simple -> UR-IW-5
+System 5: GPT-3.5-turbo fine-tuned + 10 shot -> UR-gpt3.5-turbo-zero -> UR-IW-3

@@ -1,0 +1,10 @@
+Paticipating with 5 systems:
+UR-IW-1 -> Opus 10-shot + wiki -> 28:33
+UR-IW-2 -> Opus 10-shot -> failed because of rate limits
+UR-IW-2 -> Mixtral 22B 10-shot -> 1:10
+UR-IW-3 -> Mixtral 7B 10-shot + wiki -> 2:22
+UR-IW-4 -> Mixtral 7B 10-shot -> 0:42
+UR-IW-5 -> Mixtral 22B 10-shot + wiki -> 6:13
+
+
+Took run file from UR-IW-5 because it had the biggest size

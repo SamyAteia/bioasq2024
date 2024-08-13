@@ -1,0 +1,6 @@
+UR-IW-1 -> Claude 3
+UR-IW-2 -> Mixtral FT + 10-Shot
+UR-IW-3 -> GPT 3.5-Turbo fine-tuned 1-shot
+UR-IW-4 -> Mixtral 10-shot
+UR-IW-5 -> GPT 3.5-Turbo 10-Shot
+

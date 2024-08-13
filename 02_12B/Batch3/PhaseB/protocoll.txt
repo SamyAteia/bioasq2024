@@ -1,0 +1,9 @@
+Paticipating with 5 systems:
+UR-IW-1 -> 
+UR-IW-2 -> Mixtral 22B 10-shot -> 0:53
+UR-IW-3 -> Mixtral 7B 10-shot + wiki -> 2:08
+UR-IW-4 -> Mixtral 7B 10-shot -> 0:32
+UR-IW-5 -> Mixtral 22B 10-shot + wiki -> 6:27
+
+
+No Opus due to rate limiting?

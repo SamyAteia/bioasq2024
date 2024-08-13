@@ -1,0 +1,24 @@
+Paticipating with 5 systems:
+System 1: Claude Opus + 10 shot -> UR-IW-1
+System 2: Mixtral + 10 shot -> UR-gpt4-simple
+System 3: Mixtral fine-tuned + 10 shot -> UR-gpt4-zero
+System 4: GPT-3.5-turbo + 10 shot -> UR-gpt3.5-t-simple
+System 5: GPT-3.5-turbo fine-tuned + 10 shot -> UR-gpt3.5-turbo-zero
+
+First Run System 4 -> UR-gpt3.5-t-simple: 2-3 minutes
+First Run System 2 -> UR-gpt4-simple: 40s
+Second run system 2 -> 42 seconds improved yes no parsing function, also choose default no if model outputs gibberish 4 cases found:
+the
+i c
+the
+the
+First run system 1 -> UR-IW-1, 8-9 minutes
+First run system 3 -> error because of broken json parsing
+Second run system 3 -> removed leading ASSISTANT: part, took 1 minute
+not
+the
+i c
+First run system 5: 54 seconds
+
+
+Used same input file gpt-3.5-turbo-10-shot-simple for all models to insure comparability
